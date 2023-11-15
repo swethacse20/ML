@@ -1,6 +1,6 @@
-## Unit: I Introduction
- - Introduction [link](https://medium.datadriveninvestor.com/3-steps-introduction-to-machine-learning-and-design-of-a-learning-system-bd12b65aa50c) 
-   > Well-posed learning problems, designing a learning system 
+## Unit: I Introduction 
+ - Introduction [link](https://medium.com/analytics-vidhya/an-introduction-to-machine-learning-574bafa6fc66)  
+   > Well-posed learning problems, designing a learning system [link](https://medium.datadriveninvestor.com/3-steps-introduction-to-machine-learning-and-design-of-a-learning-system-bd12b65aa50c) </br>
    > Perspectives and issues in machine learning
  - Concept learning and the general to specific ordering [link](https://medium.com/@pralhad2481/chapter-2-concept-learning-part-2-d8aa0761143e)
    > introduction, a concept learning task,concept learning as search
