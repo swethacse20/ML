@@ -21,8 +21,9 @@
 ## Unit: II Artificial Neural Networks-1
  - Artificial Neural Networks-1
    > Introduction, neural network representation
-   > appropriate problems for neural network learning
-   > perceptions, multilayer networks and the backpropagation algorithm
+   > appropriate problems for neural network learning [Link](https://www.youtube.com/watch?v=i8rGS6nZTEk)
+   > perceptrons [link](https://www.youtube.com/watch?v=ktGm0WCoQOg)
+   > multilayer networks and the backpropagation algorithm
  - Artificial Neural Networks-2
    > Remarks on the Back-Propagation algorithm
    > An illustrative example: face recognition
