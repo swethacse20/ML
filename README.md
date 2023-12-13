@@ -12,7 +12,7 @@
    > inductive bias.
  - Decision Tree Learning [link](https://medium.com/@MrBam44/decision-trees-91f61a42c724)
    > Introduction, decision tree representation
-   > appropriate problems for decision tree learning
+   > appropriate problems for decision tree learning <br>
    > the basic decision tree learning algorithm
    > hypothesis space search in decision tree learning <br>
    > inductive bias in decision tree learning [video](https://www.youtube.com/watch?v=SVwFJZeWdtg) <br>
