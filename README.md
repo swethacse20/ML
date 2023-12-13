@@ -15,8 +15,8 @@
    > appropriate problems for decision tree learning
    > the basic decision tree learning algorithm
    > hypothesis space search in decision tree learning
-   > inductive bias in decision tree learning
-   > issues in decision tree learning
+   > inductive bias in decision tree learning <br>
+   > issues in decision tree learning https://www.youtube.com/watch?v=3ZAyNV-LfuY(https://www.youtube.com/watch?v=3ZAyNV-LfuY)
    
 ## Unit: II Artificial Neural Networks-1
  - Artificial Neural Networks-1
