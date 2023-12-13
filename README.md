@@ -10,7 +10,7 @@
    > version spaces and the candidate elimination algorithm
    > remarks on version spaces and candidate elimination
    > inductive bias.
- - Decision Tree Learning [link](https://medium.com/@MrBam44/decision-trees-91f61a42c724)
+ - Decision Tree Learning [link]https://medium.com/@MrBam44/decision-trees-91f61a42c724
    > Introduction, decision tree representation
    > appropriate problems for decision tree learning
    > the basic decision tree learning algorithm
