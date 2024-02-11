@@ -79,7 +79,7 @@
   > learning with perfect domain theories: PROLOG-EBG<br>
   > remarks on explanation-based learning<br>
   > explanation-based learning of search control knowledge<br>
- - Analytical Learning-2<br>
+- Analytical Learning-2<br>
   > Using prior knowledge to alter the search objective<br>
   > using prior knowledge to augment search operators<br>
   > inverted deduction, inverting resolution<br>
