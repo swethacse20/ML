@@ -68,8 +68,7 @@
   >  Induction as inverted deduction, inverting resolution<br>
 - Reinforcement Learning<br>
   > Introduction, the learning task<br>
-  > Q–learning<br>
-  > non-deterministic, rewards and actions<br>
+  > Q–learning,non-deterministic, rewards and actions<br>
   > temporal difference learning<br>
   > generalizing from examples<br>
   > relationship to dynamic programming<br>
