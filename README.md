@@ -23,17 +23,17 @@
    > Introduction, neural network representation<br> [video](https://www.youtube.com/watch?v=aircAruvnKk)
    > appropriate problems for neural network learning [video](https://www.youtube.com/watch?v=i8rGS6nZTEk)<br>
    > perceptrons [video](https://www.youtube.com/watch?v=ktGm0WCoQOg)<br>
-   > multilayer networks and the backpropagation algorithm [link](https://medium.com/edureka/backpropagation-bd2cf8fdde81)
+   > multilayer networks and the backpropagation algorithm [link](https://medium.com/edureka/backpropagation-bd2cf8fdde81)<br>
  - Artificial Neural Networks-2
-   > Remarks on the Back-Propagation algorithm
-   > An illustrative example: face recognition
-   > advanced topics in artificial neural networks
+   > Remarks on the Back-Propagation algorithm<br>
+   > An illustrative example: face recognition<br>
+   > advanced topics in artificial neural networks<br>
  - Evaluation Hypotheses
-   > Motivation, estimation hypothesis accuracy
-   > basics of sampling theory
-   > a general approach for deriving confidence intervals
-   > difference in error of two hypotheses
-   > comparing learning algorithms.
+   > Motivation, estimation hypothesis accuracy<br>
+   > basics of sampling theory<br>
+   > a general approach for deriving confidence intervals<br>
+   > difference in error of two hypotheses<br>
+   > comparing learning algorithms<br>
 ## Unit: III Bayesian learning
 - Bayesian learning<br>
   > Introduction, Bayes theorem, Bayes theorem and concept learning<br>
