@@ -35,27 +35,27 @@
    > difference in error of two hypotheses
    > comparing learning algorithms.
 ## Unit: III Bayesian learning
-- Bayesian learning
-  > Introduction, Bayes theorem, Bayes theorem and concept learning
-  > Maximum Likelihood and least squared error hypotheses
-  > maximum likelihood hypotheses for predicting probabilitie
-  > minimum description length principle
-  > Bayes optimal classifier
-  > Gibs algorithm
-  > Naïve Bayes classifier, an example: learning to classify text
-  > Bayesian belief networks,
-  > the EM algorithm.
-- Computational learning theory
-  > Introduction, probably learning an approximately correct hypothesis
-  > sample complexity for finite hypothesis space
-  > sample complexity for infinite hypothesis spaces
-  > the mistake bound model of learning
-- Instance-Based Learning
-  > Introduction, k-nearest neighbour algorithm
-  > locally weighted regression
-  > radial basis functions
-  > case-based reasoning
-  > remarks on lazy and eager learning
+- Bayesian learning<br>
+  > Introduction, Bayes theorem, Bayes theorem and concept learning<br>
+  > Maximum Likelihood and least squared error hypotheses<br>
+  > maximum likelihood hypotheses for predicting probabilitie<br>
+  > minimum description length principle<br>
+  > Bayes optimal classifier<br>
+  > Gibs algorithm<br>
+  > Naïve Bayes classifier, an example: learning to classify text<br>
+  > Bayesian belief networks<br>
+  > the EM algorithm<br>
+- Computational learning theory<br>
+  > Introduction, probably learning an approximately correct hypothesis<br>
+  > sample complexity for finite hypothesis space<br>
+  > sample complexity for infinite hypothesis spaces<br>
+  > the mistake bound model of learning<br>
+- Instance-Based Learning<br>
+  > Introduction, k-nearest neighbour algorithm<br>
+  > locally weighted regression<br>
+  > radial basis functions<br>
+  > case-based reasoning<br>
+  > remarks on lazy and eager learning<br>
  ## Unit: IV Genetic Algorithms
 - Genetic Algorithms<br>
    > Motivation, Genetic algorithms, an illustrative example<br>
