@@ -74,15 +74,15 @@
   > generalizing from examples
   > relationship to dynamic programming
 ## Unit: V Analytical Learning
--Analytical Learning-1
+- Analytical Learning-1
   > Introduction
   > learning with perfect domain theories: PROLOG-EBG
   > remarks on explanation-based learning
   > explanation-based learning of search control knowledge
--Analytical Learning-2
+- Analytical Learning-2
   > Using prior knowledge to alter the search objective
   > using prior knowledge to augment search operators
   > inverted deduction, inverting resolution
--Combining Inductive and Analytical Learning
+- Combining Inductive and Analytical Learning
   > Motivation, inductive-analytical approaches to learning
   > using prior knowledge to initialize the hypothesis
