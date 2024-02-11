@@ -57,32 +57,32 @@
   > case-based reasoning
   > remarks on lazy and eager learning
  ## Unit: IV Genetic Algorithms
-- Genetic Algorithms
-   > Motivation, Genetic algorithms, an illustrative example
-   > hypothesis space search
-   > genetic programming
-   > models of evolution and learning, parallelizing genetic algorithms
-- Learning Sets of Rules
-  > Introduction, sequential covering algorithms
-  > learning rule sets: summary, learning First-Order rules, learning sets of First-Order rules: FOIL
-  >  Induction as inverted deduction, inverting resolution
-- Reinforcement Learning
-  > Introduction, the learning task
-  > Q–learning
-  > non-deterministic, rewards and actions
-  > temporal difference learning
-  > generalizing from examples
-  > relationship to dynamic programming
-## Unit: V Analytical Learning
-- Analytical Learning-1
-  > Introduction
-  > learning with perfect domain theories: PROLOG-EBG
-  > remarks on explanation-based learning
-  > explanation-based learning of search control knowledge
- - Analytical Learning-2
-  > Using prior knowledge to alter the search objective
-  > using prior knowledge to augment search operators
-  > inverted deduction, inverting resolution
-- Combining Inductive and Analytical Learning
-  > Motivation, inductive-analytical approaches to learning
-  > using prior knowledge to initialize the hypothesis
+- Genetic Algorithms<br>
+   > Motivation, Genetic algorithms, an illustrative example<br>
+   > hypothesis space search<br>
+   > genetic programming<br>
+   > models of evolution and learning, parallelizing genetic algorithms<br>
+- Learning Sets of Rules<br>
+  > Introduction, sequential covering algorithms<br>
+  > learning rule sets: summary, learning First-Order rules, learning sets of First-Order rules: FOIL<br>
+  >  Induction as inverted deduction, inverting resolution<br>
+- Reinforcement Learning<br>
+  > Introduction, the learning task<br>
+  > Q–learning<br>
+  > non-deterministic, rewards and actions<br>
+  > temporal difference learning<br>
+  > generalizing from examples<br>
+  > relationship to dynamic programming<br>
+## Unit: V Analytical Learning<br>
+- Analytical Learning-1<br>
+  > Introduction<br>
+  > learning with perfect domain theories: PROLOG-EBG<br>
+  > remarks on explanation-based learning<br>
+  > explanation-based learning of search control knowledge<br>
+ - Analytical Learning-2<br>
+  > Using prior knowledge to alter the search objective<br>
+  > using prior knowledge to augment search operators<br>
+  > inverted deduction, inverting resolution<br>
+- Combining Inductive and Analytical Learning<br>
+  > Motivation, inductive-analytical approaches to learning<br>
+  > using prior knowledge to initialize the hypothesis<br>
